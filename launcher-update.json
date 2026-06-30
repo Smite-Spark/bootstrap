@@ -1,11 +1,12 @@
 {
+  "notes": "Launcher v0.1.0",
   "version": "0.1.0",
-  "notes": "Initial version",
-  "pub_date": "2026-06-30T19:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbjQ3a1RKYkF4M0ZvSnJwcmgzbE5WNzJSMjdUZExkWjJEOWN6V3psNVJ4Q01NTTlybFc1aDlrSGg4SUZWMS9qUHhGdnR0Z2ZrMjB1aHNDMVZsVzBHSDErdXNyZmFMZGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODU5Njg5CWZpbGU6U21pdGUgU3BhcmtfMC4xLjBfeDY0LXNldHVwLmV4ZQpvbE1DMFJTdkR0Q2IySGo2Mm9SUTVCNmZNM3lPZjFXSDRmMXdQYmhFeHlvRE9OekczdTk2MTM0K2JjS3gvems5Tm1OazJnZmltS1BvRHFJMEpQTEZEZz09Cg==",
+      "url": "https://github.com/Smite-Spark/bootstrap/releases/download/v0.1.0/Smite Spark_0.1.0_x64-setup.exe"
     }
-  }
+  },
+  "pub_date": "2026-06-30T22:48:19.3110602+00:00"
 }
+
